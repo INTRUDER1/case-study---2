@@ -1,0 +1,29 @@
+
+Average Charges by Region
+region,charges
+northeast,10740.68107399661
+northwest,10392.290654111843
+southeast,9541.690096511627
+southwest,8933.687846275861
+
+
+Average Charges by Smoker Status
+smoker,charges
+no,8369.565732503796
+yes,21831.273441838235
+
+
+Average Charges by BMI Category
+bmi_category,charges
+Normal,10299.24825892857
+Obese,9240.609948439716
+Overweight,10719.360831227748
+Underweight,8852.200585
+
+
+Customer Distribution by Age Group
+Age Group,Customer Count
+Middle-Aged,476
+Young,401
+Senior,313
+
