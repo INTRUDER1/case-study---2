@@ -107,10 +107,9 @@ To run this project on your local machine:
   - Introduce targeted premium discounts for young customers.
 
 ## Contribution & Contact
-- **Author:** [Your Name]
-- **Contact:** [Your Email]
-- **GitHub:** [Your GitHub Profile]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Author:** P Hemant Deo
+- **Contact:** hemantdeo.ranchi@gmail.com
+- **GitHub:** https://github.com/INTRUDER1
 
 Feel free to contribute by raising issues or submitting pull requests!
 
